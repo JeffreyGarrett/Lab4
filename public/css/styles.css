@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #4CAF50;
+    color:#FFFFFF;
+}
+
+.navbar {
+    background-color: #388E3C;
+    color:#FFFFFF;
+}
+
+p {
+    font-size: x-large;
+}
