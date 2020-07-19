@@ -23,6 +23,10 @@ app.get("/earth", function(req,res){
     res.render("earth.html");
 });
 
+app.get("/pluto", function(req,res){
+    res.render("pluto.html");
+});
+
 //Starting server
 app.listen(port, ip, function(){
     console.log("Rimmomg Express Server...")
